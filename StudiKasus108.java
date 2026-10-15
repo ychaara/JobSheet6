@@ -26,5 +26,6 @@ public class StudiKasus108 {
             System.out.println("Uang tidak cukup, kurang Rp" + kurang);
         }
         sc.close();
+        // tes tes coba ada something yang terjadi tidak 
     }
 }
